@@ -373,26 +373,32 @@ input, select, textarea {
 
 			#main .item.span-1 {
 				width: 16.56em;
+				height: 13.250em;
 			}
 
 			#main .item.span-2 {
 				width: 8.813em;
+								height: 13.250em;
 			}
 
 			#main .item.span-3 {
 				width: 10.625em;
+								height: 13.250em;
 			}
 
 			#main .item.span-4{
 				width: 13.250em;
+								height: 13.250em;
 			}
 
 			#main .item.span-5{
 				width: 19.938em;
+								height: 13.250em;
 			}
 
 			#main .item.span-title {
 				width: 30em;
+								height: 13.250em;
 			}
 
 			#main .item.intro {
@@ -528,22 +534,27 @@ input, select, textarea {
 
 				#main .item.span-1 {
 					width: 16.56em;
+									height: 13.250em;
 				}
 
 				#main .item.span-2 {
 					width: 8.813em;
+									height: 13.250em;
 				}
 
 				#main .item.span-3 {
 					width: 10.625;
+									height: 13.250em;
 				}
 
 				#main .item.span-4{
 					width: 13.250em;
+									height: 13.250em;
 				}
 
 				#main .item.span-5{
 					width: 19.938em;
+									height: 13.250em;
 				}
 
 				#main .item.span-tile {
