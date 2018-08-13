@@ -372,19 +372,31 @@ input, select, textarea {
 		}
 
 			#main .item.span-1 {
-				width: 20em;
+				width: 16.56em;
 			}
 
 			#main .item.span-2 {
-				width: 30em;
+				width: 8.813em;
 			}
 
 			#main .item.span-3 {
-				width: 40em;
+				width: 10.625em;
+			}
+
+			#main .item.span-4{
+				width: 13.250em;
+			}
+
+			#main .item.span-5{
+				width: 19.938em;
+			}
+
+			#main .item.span-title {
+				width: 30em;
 			}
 
 			#main .item.intro {
-				background-color: #d64760;
+				background-color: #3f3f3f;
 				background-image: url("images/overlay.png");
 				display: -moz-flex;
 				display: -webkit-flex;
@@ -515,15 +527,27 @@ input, select, textarea {
 			}
 
 				#main .item.span-1 {
-					width: 17em;
+					width: 16.56em;
 				}
 
 				#main .item.span-2 {
-					width: 25.5em;
+					width: 8.813em;
 				}
 
 				#main .item.span-3 {
-					width: 34em;
+					width: 10.625;
+				}
+
+				#main .item.span-4{
+					width: 13.250em;
+				}
+
+				#main .item.span-5{
+					width: 19.938em;
+				}
+
+				#main .item.span-tile {
+					width: 30em;
 				}
 
 		}
